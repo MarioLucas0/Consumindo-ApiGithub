@@ -37,7 +37,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ## 🛠️ Projeto no ar
 
-* [Netlify](https://calculadora2-sigma.vercel.app/)
+* [Vercel](https://calculadora2-sigma.vercel.app/)
  
 ## 🎁 Expressões de gratidão
 
