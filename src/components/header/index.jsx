@@ -16,6 +16,9 @@ const Header = () => {
 
     try {
         const response = await client.get(`/${searchValue}`)
+        const repos = await client.get(`/${searchValue}/repos`)
+        
+        ctx.setRepos(repos.data)
          ctx.setUserData(response.data)
     } catch (error) {
         console.log(error) 
