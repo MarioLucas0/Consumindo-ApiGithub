@@ -37,11 +37,9 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ## 🛠️ Projeto no ar
 
-<<<<<<< HEAD
-* [Vercel](https://apigithub-iota.vercel.app/)
-=======
-* [Vercel](https://calculadora2-sigma.vercel.app/)
->>>>>>> f37d6a0d1119761a02e7cf71e109a73e1be735a8
+
+[Vercel](https://calculadora2-sigma.vercel.app/)
+
  
 ## 🎁 Expressões de gratidão
 
