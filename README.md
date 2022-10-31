@@ -1,17 +1,47 @@
-# Github Profile
+## Projeto final Consumindo Api GitHub
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=PROJETO%20FINALIZADO&color=GREEN&style=for-the-badge)
+ 
+ 
+ <div>
+    <img src="./print1.png"  width="100%">
+    <img src="./print2.png"  width="100%">
+</div>
+ 
+--- 
+## 📋 Índice
 
-### Descrição
+- [Sobre](#projeto-final-Calculadora)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Construído com](#%EF%B8%8F-construído-com)
 
-Github Profile é um projeto pensado para iniciantes no desenvolvimento web que utiliza de tecnologias e técnicas abordadas pelo mercado. Seu objetivo é passar para o aluno o necessário para ele começar a criar aplicações para o mercado de trabalho.
+--- 
 
-O projeto utiliza: React, Styled Components, Axios, React-Router-DOM e React-Icons.
+## 🚀 Tecnologias utilizadas
 
-OBS.: Este repositório refere-se aos arquivos iniciais do projeto. Caso queira ver ele completo, [clique aqui](https://github.com/anthonyvii27/ytb-github-profile-final).
+O projeto está desenvolvido utilizando as seguintes tecnologias:
 
-### Aula
 
-Caso queira assistir a aula onde é ensinada a construir o restante do projeto, [clique aqui](https://www.youtube.com/watch?v=kqp1lNnv6K8)
+- ReactJs
+- StyledComponents
+- ReactRouter
+- Axios
 
-### Licença
 
-A utilização do conteúdo deste repositório é livre e sem a necessidade de dar créditos.
+--- 
+
+## 🛠️ Construído com
+
+* [Visual Studio Code](https://code.visualstudio.com/) - ferramenta de desenvolvimento
+
+--- 
+
+## 🛠️ Projeto no ar
+
+* [Netlify](https://calculadora2-sigma.vercel.app/)
+ 
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢
+* Obrigado por ver esse projeto ❤️
+
+--- 
